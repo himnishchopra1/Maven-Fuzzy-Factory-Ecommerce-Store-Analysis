@@ -8,7 +8,6 @@ SQL skills demonsrated:
 - writing DATA programs
 - use of aggregate functions,
 - use of DATE functions
-- User Analysis
 
 Analytical Skills Demonstrated:
 - Website Traffic Analysis and Optimization
