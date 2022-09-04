@@ -1,4 +1,4 @@
-AN analysis of page-level website data to compare traffic and conversion rates, and use MySQL to build and analyze conversion funnels to help optimize the customer purchase experience.
+An analysis of page-level website data to compare traffic and conversion rates, and use MySQL to build and analyze conversion funnels to help optimize the customer purchase experience.
 
 The tasks to complete are:
 
